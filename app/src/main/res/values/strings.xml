@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hire Job</string>
+    <string name="slogan">Find talented &amp; best developers in various fields of expertise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="job_array">
+        <item>All Developer</item>
+        <item>Android Developer</item>
+        <item>Web Developer</item>
+        <item>IOS Developer</item>
+    </string-array>
+
+    <string-array name="job_list">
+        <item>Android Developer</item>
+        <item>Web Developer</item>
+        <item>IOS Developer</item>
+    </string-array>
+
+    <string-array name="status_list">
+        <item>Freelancers</item>
+        <item>Full Time</item>
+        <item>Part Time</item>
+    </string-array>
+
+</resources>
